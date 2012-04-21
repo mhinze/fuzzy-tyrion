@@ -1,0 +1,16 @@
+[Oo]bj/
+[Bb]in/
+*.user
+/TestResults
+TestResult.xml
+*.vspscc
+*.vssscc
+deploy
+deploy/*
+*.suo
+*.cache
+*.bak
+packages/
+msbuild.log
+_Resharper*/
+_AzurePackage/
